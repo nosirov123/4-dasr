@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header .container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__btn{
+    width: 219px;
+    color:  rgb(239, 64, 15) ;
+    border-radius: 20px;
+background: rgba(217, 217, 217, 0);
+height: 63px;
+border: 3px solid rgb(239, 64, 15);
+
+}
+nav a{
+    color: rgb(188, 170, 170);
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+nav{
+    display: flex;
+    gap: 64px;
+}
+.a{
+    color: rgb(239, 64, 15);
+}
+nav a:hover{
+    color: rgb(239, 64, 15);
+}
+p{
+    font-size: 40px;
+font-weight: 600;
+color: rgb(13, 12, 92);
+display: flex;
+align-items: center;
+}
+.hero__p{
+    color: rgb(239, 64, 15);
+    font-size: 32px;
+font-weight: 600;
+}
+.container .content{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+}
+div .container{
+    width: 290px;
+height: 290px;
+border-radius: 30px;
+box-shadow: 0px 4px 13.3px 0px rgba(0, 0, 0, 0.25);
+background: rgb(255, 255, 255);
+text-align: center;
+margin-top: 80px;
+
+}
+.div__p{
+    font-size: 15px;
+}
+.div__pp{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.67);
+}
+.div__ppp{
+    font-size: 13px;
+}
+.box1{
+    margin-left: 100px;
+}
+.box2{
+    margin-left: 100px;
+}
+.box3{
+    margin-left: 100px;
+}
+.box4{
+    margin-left: 100px;
+}
+.box5{
+    margin-left: 100px;
+}
+.box6{
+    margin-left: 100px;
+}
+.box7{
+    margin-left: 100px;
+}
+.box8{
+    margin-left: 100px;
+}
+.box9{
+    margin-left: 100px;
+}
+.box10{
+    margin-left: 100px;
+}
+.box11{
+    margin-left: 100px;
+}
+.box12{
+    margin-left: 100px;
+}
+.box{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
